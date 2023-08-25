@@ -26,6 +26,6 @@ Feel free to explore the code to understand how DOM manipulation is achieved usi
 
 ## Hosted Link
 
-You can also view and interact with the web page through the following hosted link: [Hosted Link](https://yourusername.github.io/assignment-dom-dropdowns/)
+You can also view and interact with the web page through the following hosted link: (https://prathamwate.github.io/ClassWorkday9/)
 
 For any questions or improvements, please feel free to open an issue or contribute to the repository.
